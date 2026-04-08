@@ -16,4 +16,5 @@ git merge <branchName>              # merging other branch into the current
 git tag -a '<ver>' -m '<msg>'       # tagging an annotated tag with msg
 git remote add <origin> <url>       # adding a remote
 git push origin <branchName>        # pushign branch to github
+git push origin --tags
 ```
